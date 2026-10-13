@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "手写试卷全链路：手写试卷照片 → 转录稿 → 学生版 / 教师版 PDF"
+abstract: >-
+  把"学生做过 / 教师批改过的手写试卷照片"转成干净可编辑的 Markdown 转录稿，
+  并进一步产出学生版（题面 + 作答留白）与教师版（答案 + 完整解析）PDF 的完整流程与工具。
+  含手写擦除、MinerU 转录、逐题对照原图校对、解题与数值自验、双版本出片与交付自检。
+authors:
+  - name: chengbai
+    city: 上海
+    country: CN
+version: "2.0.0"
+date-released: "2026-10-13"
+license: MIT
+keywords:
+  - 手写试卷
+  - OCR 校对
+  - MinerU
+  - 数学讲义
+  - 上海高考
+  - PDF 出片
